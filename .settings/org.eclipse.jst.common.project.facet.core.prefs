@@ -1,0 +1,5 @@
+#Thu Oct 25 20:17:02 CDT 2007
+classpath.helper/org.eclipse.jdt.launching.JRE_CONTAINER/owners=jst.java\:1.4
+classpath.helper/org.eclipse.jst.server.core.container\:\:org.eclipse.jst.server.tomcat.runtimeTarget\:\:Apache\ Tomcat\ v6.0/owners=jst.web\:2.4
+eclipse.preferences.version=1
+instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true

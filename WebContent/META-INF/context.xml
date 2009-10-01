@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+ <Resource
+  name="jdbc/authdb"
+  auth="Container"
+  type="javax.sql.DataSource"
+  maxActive="100"
+  maxIdle="30"
+  maxWait="10000"
+  username="sa"
+  password=""
+  driverClassName="org.hsqldb.jdbcDriver"
+  url="jdbc:hsqldb:file:/tmp/authdb"
+ />
+ <!--
+	On Windows, change the url attribute of the Resource element like so: 
+ 	url="jdbc:hsqldb:file:c:/windows/temp/authdb  
+ -->
+</Context>
